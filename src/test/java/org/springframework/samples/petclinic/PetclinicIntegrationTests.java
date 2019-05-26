@@ -36,5 +36,6 @@ public class PetclinicIntegrationTests {
         vets.findAll();
         vets.findAll(); // served from cache
         //something
+        //khgkkh
     }
 }
